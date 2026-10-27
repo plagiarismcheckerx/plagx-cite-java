@@ -28,14 +28,14 @@ Maven:
 <dependency>
   <groupId>io.github.plagiarismcheckerx</groupId>
   <artifactId>plagx-cite</artifactId>
-  <version>0.2.1</version>
+  <version>0.2.2</version>
 </dependency>
 ```
 
 Gradle:
 
 ```groovy
-implementation 'io.github.plagiarismcheckerx:plagx-cite:0.2.1'
+implementation 'io.github.plagiarismcheckerx:plagx-cite:0.2.2'
 ```
 
 ## Quick start
@@ -71,10 +71,10 @@ References are `Map<String, Object>` in CSL-JSON form (lists, strings and number
 The jar runs on its own:
 
 ```bash
-java -jar plagx-cite-0.2.1.jar format references.bib --style apa
-java -jar plagx-cite-0.2.1.jar check references.bib --check-dois
-java -jar plagx-cite-0.2.1.jar doi 10.1038/nature14539 --style mla
-java -jar plagx-cite-0.2.1.jar bibtex references.json > references.bib
+java -jar plagx-cite-0.2.2.jar format references.bib --style apa
+java -jar plagx-cite-0.2.2.jar check references.bib --check-dois
+java -jar plagx-cite-0.2.2.jar doi 10.1038/nature14539 --style mla
+java -jar plagx-cite-0.2.2.jar bibtex references.json > references.bib
 ```
 
 | Command | What it does |
