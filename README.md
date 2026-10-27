@@ -16,7 +16,7 @@ Use it as an **APA citation generator** or **MLA citation generator**: create a 
 
 Developer downloads: [Maven Central](https://central.sonatype.com/artifact/io.github.plagiarismcheckerx/plagx-cite) · [javadoc.io](https://javadoc.io/doc/io.github.plagiarismcheckerx/plagx-cite) · [NuGet](https://www.nuget.org/packages/Plagx.Cite) · [PyPI](https://pypi.org/project/plagx-cite/) · [GitHub](https://github.com/plagiarismcheckerx/plagx-cite)
 
-Need a quick citation online? Use the [free citation generator](https://plagiarismcheckerx.com/citation-generator?utm_source=plagx-cite-java&utm_medium=readme&utm_campaign=plagx&utm_content=citation-generator).
+Need a quick citation online? Use the [free citation generator](https://plagiarismcheckerx.com/citation-generator?utm_source=plagx-cite-java).
 
 > Plagx Cite is a free academic writing utility by Plagiarism Checker X. It is a citation generator that builds and checks APA and MLA reference lists. Plagiarism checking and AI-generated text detection are available in Plagiarism Checker X, linked at the end of this page.
 
@@ -163,7 +163,7 @@ An open-source citation utility for students, researchers and developers. Format
 
 Developed by Plagiarism Checker X.
 
-Plagx Cite helps with source attribution; it does not detect plagiarism or AI-generated text. For full document checks, explore [Plagiarism Checker X](https://plagiarismcheckerx.com/?utm_source=plagx-cite-java&utm_medium=readme&utm_campaign=plagx&utm_content=about-cta) and its [AI Content Detector](https://plagiarismcheckerx.com/ai-content-detector?utm_source=plagx-cite-java&utm_medium=readme&utm_campaign=plagx&utm_content=about-ai-detector).
+Plagx Cite helps with source attribution; it does not detect plagiarism or AI-generated text. For full document checks, explore [Plagiarism Checker X](https://plagiarismcheckerx.com/?utm_source=plagx-cite-java) and its [AI Content Detector](https://plagiarismcheckerx.com/ai-content-detector?utm_source=plagx-cite-java).
 
 ## License
 
